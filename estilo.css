@@ -1,0 +1,72 @@
+*{margin: 0px;}
+.padre{
+    background-color: red;
+    padding: 20px;
+    width: 200px;
+    border-radius: 70px;
+}
+.hijo{
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 70px;
+    margin-top: -10px;
+    margin-left: 10px;
+    width: 60px;
+    height: 60px;
+}
+.nieto{
+    background-color: greenyellow;
+    padding: 20px;
+    border-radius: 70px;
+    margin-top: -60px;
+    margin-left: 20px;
+    width: 60px;
+    height: 60px;
+}
+.bisnieto{
+    background-color: rgb(127, 140, 255);
+    padding: 20px;
+    border-radius: 70px;
+    margin-top: -60px;
+    margin-left: 30px;
+    width: 60px;
+    height: 60px;
+}
+.bissnieto{
+    background-color: rgb(255, 127, 234);
+    padding: 20px;
+    border-radius: 70px;
+    margin-top: -60px;
+    margin-left: 40px;
+    width: 60px;
+    height: 60px;
+}
+.bisssnieto{
+    background-color: rgb(29, 192, 192);
+    padding: 20px;
+    border-radius: 70px;
+    margin-top: -60px;
+    margin-left: 50px;
+    width: 60px;
+    height: 60px;
+}
+.bissssnieto{
+    width: 60px;
+
+    background-color: rgb(71, 25, 180);
+    padding: 20px;
+    border-radius: 70px;
+    margin-top: -60px;
+    margin-left: 60px;
+    height: 60px;
+}
+.bisssssnieto{
+    width: 60px;
+    background-color: rgb(111, 20, 119);
+    padding: 20px;
+    border-radius: 70px;
+    margin-top: -60px;
+    margin-left: 70px;
+    height: 60px;
+}
+
